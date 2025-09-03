@@ -19,9 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kiruthikaRengaraj&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruthikaRengaraj&show_icons=true&theme=default)
 
----
-[![](https://visitcount.itsvg.in/api?id=kiruthikaRengaraj&icon=9&color=6)](https://visitcount.itsvg.in)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthikaRengaraj&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
